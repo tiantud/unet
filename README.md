@@ -1,5 +1,4 @@
-# origional unet, 100 epochs
-
+* origional unet, 100 epochs
 
 lr = 0.001 | lr = 0.0001 | lr = 0.00001
 ------------ | ------------- | -------------
