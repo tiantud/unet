@@ -9,6 +9,8 @@ lr = 0.001 | lr = 0.0001 | lr = 0.00001
 ![val_n5](20200416_223905_normal_unet_Adam_e100_lr0.001/val_n5.svg) | ![val_n5](20200418_192904_normal_unet_Adam_e100_lr0.0001/val_n5.svg) |![val_n5](20200420_184537_normal_unet_e100_lr1e-05/val_n5.svg)
 große Schwankung | best Wahl | nicht konvergiert(dauert zu lange)
 
+---
+
 * Vergleichen von verschiedenen Modelle
 
 original unet | multiout unet | fcn restnet50 | deeplabv3 resnet50
