@@ -20,3 +20,5 @@ original unet | multiout unet | fcn restnet50 | deeplabv3 resnet50
 ![val_n3](20200418_192904_normal_unet_Adam_e100_lr0.0001/val_n3.svg) | ![val_n3](20200422_111836_multiout_unet_e100_lr0.0001/val_n3.svg) |![val_n3](20200423_155231_fcn_restnet50_e100_lr0.0001/val_n3.svg) |![val_n3](20200425_074639_deeplabv3_resnet50_e100_lr0.0001/val_n3.svg)
 ![val_n4](20200418_192904_normal_unet_Adam_e100_lr0.0001/val_n4.svg) | ![val_n4](20200422_111836_multiout_unet_e100_lr0.0001/val_n4.svg) |![val_n4](20200423_155231_fcn_restnet50_e100_lr0.0001/val_n4.svg) |![val_n4](20200425_074639_deeplabv3_resnet50_e100_lr0.0001/val_n4.svg)
 ![val_n5](20200418_192904_normal_unet_Adam_e100_lr0.0001/val_n5.svg) | ![val_n5](20200422_111836_multiout_unet_e100_lr0.0001/val_n5.svg) |![val_n5](20200423_155231_fcn_restnet50_e100_lr0.0001/val_n5.svg) |![val_n5](20200425_074639_deeplabv3_resnet50_e100_lr0.0001/val_n5.svg)
+
+Y-Bereich von Restnet sind falsch, ich mache morgen neu. 
